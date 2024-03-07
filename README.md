@@ -1,8 +1,8 @@
-##University Management System using Modern C++
+#University Management System using Modern C++
 
 The University Management System is a comprehensive software application designed to efficiently manage the various tasks and interactions within a university environment. Developed using modern C++, the system caters to three main user roles: student, teacher, and admin. Each user role has specific functionalities tailored to their needs, facilitating smooth operation and effective management of university resources.
 
-#Features:
+Features:
 
 Student Interface:
 
