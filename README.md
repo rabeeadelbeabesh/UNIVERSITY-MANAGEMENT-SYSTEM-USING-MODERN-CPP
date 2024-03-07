@@ -1,25 +1,25 @@
-#University Management System using Modern C++
+University Management System using Modern C++
 
 The University Management System is a comprehensive software application designed to efficiently manage the various tasks and interactions within a university environment. Developed using modern C++, the system caters to three main user roles: student, teacher, and admin. Each user role has specific functionalities tailored to their needs, facilitating smooth operation and effective management of university resources.
 
 Features:
 
-Student Interface:
+1- Student Interface:
 
-View Profile: Students can access and print their profile information, including personal details and academic history.
-View Courses: Students can see a list of courses they are enrolled in, providing them with crucial information about their academic curriculum.
-Teacher Interface:
-
-View Profile: Teachers can access and print their profile details, such as personal information and teaching assignments.
-View Courses: Teachers can see the list of courses they are assigned to teach.
-Add Course: Teachers have the privilege to add new courses to the system.
-Remove Course: Teachers can remove courses they no longer wish to offer.
-Available Courses: Teachers can view a list of courses available for teaching.
-All Courses with Students: Teachers can access a comprehensive list of all courses along with the students enrolled in each course.
-Available Students: Teachers can view a list of available students for enrollment in their courses.
-Add Student to Course: Teachers have the authority to add students to their courses.
-Remove Students from Course: Teachers can remove students from their courses as needed.
-Admin Interface:
+  - View Profile: Students can access and print their profile information, including personal details and academic history.
+  - View Courses: Students can see a list of courses they are enrolled in, providing them with crucial information about their academic curriculum.
+    Teacher Interface:
+  
+  - View Profile: Teachers can access and print their profile details, such as personal information and teaching assignments.
+  - View Courses: Teachers can see the list of courses they are assigned to teach.
+  - Add Course: Teachers have the privilege to add new courses to the system.
+  -Remove Course: Teachers can remove courses they no longer wish to offer.
+  Available Courses: Teachers can view a list of courses available for teaching.
+  All Courses with Students: Teachers can access a comprehensive list of all courses along with the students enrolled in each course.
+  Available Students: Teachers can view a list of available students for enrollment in their courses.
+  Add Student to Course: Teachers have the authority to add students to their courses.
+  Remove Students from Course: Teachers can remove students from their courses as needed.
+  Admin Interface:
 
 Add Student: Admins can add new students to the system.
 Update Student: Admins can update student information.
